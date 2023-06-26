@@ -150,3 +150,5 @@ The optional sub-projects in integration also have several dependencies. See tho
 For questions or comments about BoofCV please use the message board. Only post a bug report after doing some due diligence to make sure it is really a bug and that it has not already been reported.
 
 [Message Board](http://groups.google.com/group/boofcv)
+
+
